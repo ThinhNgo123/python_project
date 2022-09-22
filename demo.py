@@ -1,6 +1,8 @@
 import json
 import openpyxl
 
+
+
 class ExcelManipulation:
     def excelExport(self, data, path):
         """ this function export the user information to a file.xlsx
@@ -146,7 +148,7 @@ def main():
     LOAD = 6
     EXIT = 0
 
-    path = "d:\Quang_Thinh\python_project\company_project\data1.json"
+    path = "data1.json"
 
     data = []
 
