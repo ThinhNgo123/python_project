@@ -1,2 +1,1 @@
-with open("file.txt", "r") as file:
-#    
+turtle.done()
