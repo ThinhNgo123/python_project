@@ -2,12 +2,12 @@
 
 # Build file exe
 1. Install auto-py-to-exe
-### In cmd enter "pip install auto-py-to-exe"
+    In cmd enter "pip install auto-py-to-exe"
 
 ![image](https://anonyviet.com/wp-content/uploads/2022/07/0_RzFcVLf0JdbkHlLi.jpg)
 
 2. Open file location in explore
-### In cmd enter "auto-py-to-exe", auto py to exe window will appear
+    In cmd enter "auto-py-to-exe", auto py to exe window will appear
 
 3. You need to add your python script path as shown in the picture below
 
