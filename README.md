@@ -3,7 +3,7 @@
 # Build file exe
 1. Install auto-py-to-exe
 
-![image](https://anonyviet.com/wp-content/uploads/2022/07/0_RzFcVLf0JdbkHlLi.jpg)
+    ![image](https://anonyviet.com/wp-content/uploads/2022/07/0_RzFcVLf0JdbkHlLi.jpg)
 
 2. In cmd enter "auto-py-to-exe", auto py to exe window will appear
 
