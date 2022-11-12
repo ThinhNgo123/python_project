@@ -1,5 +1,5 @@
 0,(0:Comment) (1:Bus) (2:Bus Data) (3:Gen Data) (4:Line Data) (5:Shunt Data) (6:2Winding transformer Data)
-0,Bus (Bus_Number, Bus_Name)
+0,Bus (Bus Number, Bus Name)
 1,101,NUC-A
 1,102,NUC-B
 1,151,NUCPANT
